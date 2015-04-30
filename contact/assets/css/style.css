@@ -1,0 +1,238 @@
+h1 {
+    font-family: open sans;
+    font-style: normal;
+    color: white;
+    font-size: 36pt;
+    font-weight: 300;
+    display: table;
+    margin: auto;
+    letter-spacing: 10pt;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+h1:hover{
+       text-decoration: underline;
+    -webkit-text-decoration: underline;
+    -moz-text-decoration: underline;
+    -ms-text-decoration: underline;
+}
+
+
+
+.text {
+    display: table;
+    margin: auto;
+    width: 400px;
+    height: 200px;
+}
+
+.button {
+    margin-left: 650px;
+    background-color: #000022;
+    width: 400px;
+    height: 50px;
+    
+}
+
+#submit {
+    margin-left: 670px;
+    margin-top: -35px;
+    font-family: open sans;
+    font-size: 10pt;
+    letter-spacing: 2px;
+}
+
+#submit:hover {
+    text-decoration: underline;
+}
+
+
+body {
+    background-color: #000022;
+    background size: 1440px 900px;
+    border: 1pt;
+    border-color: white;
+}
+ 
+a {
+    text-decoration: none;
+    color: white;
+}
+
+
+a:hover {
+    opacity: 1;
+    -webkit-opacity: 1;
+    -moz-opacity: 1;
+    -ms-opacity: 1;
+
+   font-size: 16pt;
+   -webkit-font-size: 16pt;
+   -moz-font-size: 16pt;
+   -ms-font-size: 16pt;
+
+    text-decoration: underline;
+    -webkit-text-decoration: underline;
+    -moz-text-decoration: underline;
+    -ms-text-decoration: underline;
+}
+
+p {
+    color: white;
+    font-family: open sans;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 300px;
+}
+#menu {
+    display: inline-block;
+    width: 400%;
+    margin-left: 0px;
+    margin-top: 0px;
+    background-color: gray;
+}
+
+.home {
+    color: white;
+    transition: 0.2s;
+    font-family: open sans;
+    font-weight: 400;
+    font-size: 12pt;
+    padding-right: 40px;
+    padding-left: 15px;
+    text-decoration: underline;
+    opacity: .7;
+}
+
+.home:hover{
+     opacity: 1;
+    -webkit-opacity: 1;
+    -moz-opacity: 1;
+     -ms-opacity: 1;
+
+   font-size: 16pt;
+   -webkit-font-size: 16pt;
+    -ms-font-size: 16pt;
+   -moz-font-size: 16pt;
+}
+
+
+.about {
+    display: inline;
+    color: white;
+    transition: 0.2s;
+    font-family: open sans;
+    font-weight: 400;
+    font-size: 12pt;
+    padding-right: 40px;
+    padding-left: 15px;
+    text-decoration: underline;
+    opacity: .7;
+ 
+}
+
+.about:hover{
+     opacity: 1;
+    -webkit-opacity: 1;
+    -moz-opacity: 1;
+     -ms-opacity: 1;
+
+   font-size: 16pt;
+   -webkit-font-size: 16pt;
+    -ms-font-size: 16pt;
+   -moz-font-size: 16pt;
+}
+
+.work {
+    color: white;
+    transition: 0.2s;
+    font-family: open sans;
+    font-weight: 400;
+    font-size: 12pt;
+    text-decoration: underline;
+    opacity: .7;
+    padding-left: 40px;
+ 
+}
+
+.work:hover{
+      opacity: 1;
+    -webkit-opacity: 1;
+    -moz-opacity: 1;
+     -ms-opacity: 1;
+
+   font-size: 16pt;
+   -webkit-font-size: 16pt;
+    -ms-font-size: 16pt;
+   -moz-font-size: 16pt;
+    
+}
+
+.contact {
+    color: white;
+    transition: 0.2s;
+    font-family: open sans;
+    font-weight: 400;
+    font-size: 12pt;
+    text-decoration: underline;
+    opacity: .7;
+   
+}
+
+.contact:hover{
+      opacity: 1;
+    -webkit-opacity: 1;
+    -moz-opacity: 1;
+     -ms-opacity: 1;
+
+   font-size: 16pt;
+   -webkit-font-size: 16pt;
+    -ms-font-size: 16pt;
+   -moz-font-size: 16pt;
+
+    text-decoration: underline;
+       -webkit-text-decoration: underline;
+    -moz-text-decoration: underline;
+    -ms-text-decoration: underline;
+    
+}
+
+
+
+#twitter {
+    font-family: open sans;
+    text-align: center;
+    font-size: 10pt;
+    letter-spacing: 2px;
+    margin-top: 10px;
+}
+
+
+
+.footer {
+    list-style-type: none;
+   }
+
+.foot-item {
+   
+    font-family: open sans;
+    display: table;
+    margin: auto;
+    margin-top: 50px;
+    font-size: 12px;
+    color: white;
+    
+    font-weight: 400;
+
+    
+}
+
+.foot-item:hover {
+  font-weight: bolder;
+    -webkit-font-weight: bolder;
+    -moz-font-weight: bolder;
+    -ms-font-weight: bolder;
+
+}
