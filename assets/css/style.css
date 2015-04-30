@@ -1,0 +1,201 @@
+
+ 
+ h3 {
+     margin-top: 0px;
+     padding-top: 50px;
+     font-family: 'open sans', sans-serif;
+     text-align: center;
+     font-size: 60pt;
+     color: white;
+     font-weight: 100;
+     letter-spacing: 10px;
+ }
+
+h3:hover{
+    text-decoration: underline;
+    -webkit-text-decoration: underline;
+    -moz-text-decoration: underline;
+    -ms-text-decoration: underline;
+
+}
+
+body {
+    
+    background-color: #000022;
+    border: 1pt;
+    border-color: white;
+    background-size: 1440px 900px;
+
+}
+
+#menu {
+    display: inline-block;
+    font-family: 'open sans', sans-serif;
+    width: 100%;
+    margin-left: 0px;
+    margin-top: 0px;
+    background-color: gray;
+}
+
+.home {
+    color: white;
+    transition: 0.2s;
+    font-family: 'open sans', sans-serif;
+    font-weight: 400;
+    font-size: 12pt;
+    padding-right: 40px;
+    padding-left: 15px;
+    text-decoration: underline;
+    opacity: .7;
+}
+
+.home:hover{
+     opacity: 1;
+    -webkit-opacity: 1;
+    -moz-opacity: 1;
+     -ms-opacity: 1;
+
+   font-size: 16pt;
+   -webkit-font-size: 16pt;
+   -moz-font-size: 16pt;
+    -ms-font-size: 16pt;
+
+}
+
+
+.about {
+    display: inline;
+    color: white;
+    transition: 0.2s;
+    font-family: 'open sans', sans-serif;
+    font-weight: 400;
+    font-size: 12pt;
+    padding-right: 40px;
+    padding-left: 15px;
+    text-decoration: underline;
+    opacity: .7;
+ 
+}
+
+.about:hover{
+     opacity: 1;
+    -webkit-opacity: 1;
+    -moz-opacity: 1;
+     -ms-opacity: 1;
+
+   font-size: 16pt;
+   -webkit-font-size: 16pt;
+   -moz-font-size: 16pt;
+    -ms-font-size: 16pt;
+}
+
+.work {
+    color: white;
+    transition: 0.2s;
+    font-family: 'open sans', sans-serif;
+    font-weight: 400;
+    font-size: 12pt;
+    padding-right: 15px;
+    padding-left: 40px;
+    text-decoration: underline;
+    opacity: .7;
+ 
+}
+
+.work:hover{
+     opacity: 1;
+    -webkit-opacity: 1;
+    -moz-opacity: 1;
+     -ms-opacity: 1;
+
+   font-size: 16pt;
+   -webkit-font-size: 16pt;
+    -ms-font-size: 16pt;
+   -moz-font-size: 16pt;
+}
+
+.contact {
+    color: white;
+    transition: 0.2s;
+    font-family: 'open sans', sans-serif;
+    font-weight: 400;
+    font-size: 12pt;
+    text-decoration: underline;
+    opacity: .7;
+   
+}
+
+.contact:hover{
+    opacity: 1;
+    -webkit-opacity: 1;
+    -moz-opacity: 1;
+    -ms-opacity: 1;
+
+   font-size: 16pt;
+   -webkit-font-size: 16pt;
+   -moz-font-size: 16pt;
+    -ms-font-size: 16pt;
+
+       text-decoration: underline;
+    -webkit-text-decoration: underline;
+    -moz-text-decoration: underline;
+    -ms-text-decoration: underline;
+}
+
+
+
+
+#infographic {
+ display: table;
+ margin: auto;
+    z-index: 3;
+    opacity: 1;
+    object-fit: cover;
+    padding-bottom: 0px;
+
+    
+
+}
+
+.hidden {
+    border: solid;
+    border-width: 1px;
+    border-color: white;
+}
+
+.infographic1{
+ display: table;
+
+    z-index: 3;
+    opacity: 1;
+    object-fit: cover;
+    -webkit-object-fit: cover;
+    -moz-object-fit: cover;
+    -ms-object-fit: cover;
+    padding-bottom: 0px;
+    position: absolute;
+    
+}
+
+#infographic2 {
+    background-image: url('http://i.imgur.com/8W442W7.png');
+    object-fit: cover;
+ display: table;
+  margin-left: 230px;
+    z-index: 2;
+    opacity: 1;
+    padding-bottom: 0px;
+    height: 275px;
+    background-repeat: no-repeat;
+    position: absolute;
+
+ }
+
+ #images {
+    display: table;
+     margin-left: 230px;
+    
+ }
+
+
+
