@@ -1,0 +1,285 @@
+	h1 {
+    font-family: open sans;
+    font-style: normal;
+    color: white;
+    font-size: 36pt;
+    font-weight: 300;
+    display: table;
+    margin: auto;
+    letter-spacing: 10pt;
+    margin-bottom: 100px;
+}
+
+h1:hover{
+       text-decoration: underline;
+       -webkit-text-decoration: underline;
+    -moz-text-decoration: underline;
+    -ms-text-decoration: underline;
+}
+
+
+body {
+    background-color: #000022;
+    background size: 1440px 900px;
+    border: 1pt;
+    border-color: white;
+}
+
+#menu {
+        display: inline-block;
+    width: 100%;
+    margin-left: 0px;
+    margin-top: 0px;
+    background-color: gray;
+   
+
+}
+
+#work_stuff {
+    margin-top: 100px;
+}
+
+ #cv {
+     color: white;
+     font-family: 'open sans', sans-serif;
+     font-size: 16pt;
+     letter-spacing: 2px;
+     text-align: center;
+
+ }
+ 
+ #writing {
+     color: white;
+     font-family: 'open sans', sans-serif;
+     font-size: 16pt;
+     letter-spacing: 2px;
+     text-align: center;
+ }
+ 
+ #tv {
+      color: white;
+     font-family: 'open sans', sans-serif;
+     font-size: 16pt;
+     letter-spacing: 2px;
+     text-align: center;
+     
+ }
+ 
+ #awards {
+     color: white;
+     font-family: 'open sans', sans-serif;
+     font-size: 16pt;
+     letter-spacing: 2px;
+     text-align: center;
+     
+     
+ }
+ 
+ #leadershipinfo {
+     color: white;
+     font-family: 'open sans', sans-serif;
+     font-size: 9pt;
+     letter-spacing: 2px;
+     width: 300px;
+    line-height: 1.75;
+     display: table;
+     margin: auto;
+    
+ }
+ 
+  #eleanor {
+     color: white;
+     font-family: 'open sans', sans-serif;
+     font-size: 9pt;
+     letter-spacing: 2px;
+     width: 500px;
+     display: table;
+     margin: auto;
+    
+ }
+ 
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+       text-decoration: underline;
+       -webkit-text-decoration: underline;
+    -moz-text-decoration: underline;
+    -ms-text-decoration: underline;
+
+    color: white;
+}
+
+
+.home {
+    color: white;
+    transition: 0.2s;
+    font-family: open sans;
+    font-weight: lighter;
+    font-size: 12pt;
+    padding-right: 40px;
+    padding-left: 15px;
+    text-decoration: underline;
+    opacity: .7;
+}
+
+.home:hover{
+   opacity: 1;
+    -webkit-opacity: 1;
+    -moz-opacity: 1;
+    -ms-opacity: 1;
+
+   font-size: 16pt;
+   -webkit-font-size: 16pt;
+   -moz-font-size: 16pt;
+   -ms-font-size: 16pt;
+
+}
+
+
+.about {
+    display: inline;
+    color: white;
+    transition: 0.2s;
+    font-family: open sans;
+    font-weight: lighter;
+    font-size: 12pt;
+    padding-right: 40px;
+    padding-left: 15px;
+    text-decoration: underline;
+    opacity: .7;
+ 
+}
+
+.about:hover{
+    opacity: 1;
+    -webkit-opacity: 1;
+    -moz-opacity: 1;
+    -ms-opacity: 1;
+
+   font-size: 16pt;
+   -webkit-font-size: 16pt;
+   -moz-font-size: 16pt;
+   -ms-font-size: 16pt;
+
+}
+
+.work {
+    color: white;
+    transition: 0.2s;
+    font-family: open sans;
+    font-weight: lighter;
+    font-size: 12pt;
+    padding-right: 15px;
+    padding-left: 40px;
+    text-decoration: underline;
+    opacity: .7;
+ 
+}
+
+.work:hover{
+    opacity: 1;
+    -webkit-opacity: 1;
+    -moz-opacity: 1;
+    -ms-opacity: 1;
+
+   font-size: 16pt;
+   -webkit-font-size: 16pt;
+   -moz-font-size: 16pt;
+   -ms-font-size: 16pt;
+
+    
+}
+
+.contact {
+    color: white;
+    transition: 0.2s;
+    font-family: open sans;
+    font-weight: lighter;
+    font-size: 12pt;
+    text-decoration: underline;
+    opacity: .7;
+   
+}
+
+.contact:hover{
+     opacity: 1;
+    -webkit-opacity: 1;
+    -moz-opacity: 1;
+    -ms-opacity: 1;
+
+   font-size: 16pt;
+   -webkit-font-size: 16pt;
+   -moz-font-size: 16pt;
+   -ms-font-size: 16pt;
+
+     text-decoration: underline;
+       -webkit-text-decoration: underline;
+    -moz-text-decoration: underline;
+    -ms-text-decoration: underline;
+}
+
+#bio {
+    text-align: center;
+    padding: 12px;
+    margin: 0 auto;
+    font-size: 10pt;
+    line-height: 30pt;
+    width: 480px;
+    font-family: open sans;
+    margin-top: -360px;
+}
+
+
+
+#twitter {
+    font-family: open sans;
+    text-align: center;
+    font-size: 10pt;
+    letter-spacing: 2px;
+}
+
+
+
+.footer {
+    list-style-type: none;
+   }
+
+.foot-item {
+    position: relative;
+    font-family: open sans;
+    padding: 100px 24px 24px 24px;
+    font-size: 12px;
+    color: white;
+    display: inline;
+    font-weight: lighter;
+    margin-left: 630px;
+}
+
+.foot-item:hover {
+    font-weight: bolder;
+    -webkit-font-weight: bolder;
+    -moz-font-weight: bolder;
+    -ms-font-weight: bolder;
+
+}
+
+
+
+    .more {
+    display: none;
+    font-size: 8pt;
+    color: white;
+    border-top: 1px solid #666;
+    border-bottom: 1px solid #666; }
+a.showLink, a.hideLink {
+    text-decoration: none;
+    color: #36f;
+    padding-left: 8px;
+    background: transparent url('down.gif') no-repeat left; }
+a.hideLink {
+    background: transparent url('up.gif') no-repeat left; }
+a.showLink:hover, a.hideLink:hover {
+ border-bottom: 1px dotted #36f; }
