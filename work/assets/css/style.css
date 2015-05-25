@@ -69,7 +69,9 @@ body {
  	border: solid;
  	border-color: white;
  	border-width: 1px;
- 	
+ 	border: solid;
+ 	border-color: white;
+ 	border-width: 1px;
  }
  
  #awards {
