@@ -65,11 +65,11 @@ body {
      
  }
  
- .print.box {
+ .printbox {
  	border: solid;
  	border-color: white;
  	border-width: 1px;
- 	border: solid;
+ 	border-style: solid;
  	border-color: white;
  	border-width: 1px;
  }
