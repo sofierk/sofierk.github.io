@@ -66,6 +66,7 @@ body {
  }
  
  .printbox {
+ 	margin-top: 15px;
  	border: solid;
  	border-color: white;
  	border-width: 1px;
