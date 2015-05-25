@@ -66,6 +66,7 @@ body {
  }
  
  #print_box {
+ 	border: solid;
  	border-color: white;
  	border-width: 1px;
  	
