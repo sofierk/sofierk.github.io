@@ -65,6 +65,12 @@ body {
      
  }
  
+ #print_box {
+ 	border-color: white;
+ 	border-width: 1px;
+ 	
+ }
+ 
  #awards {
      color: white;
      font-family: 'open sans', sans-serif;
